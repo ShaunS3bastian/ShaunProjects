@@ -69,15 +69,10 @@ You can choose to play another round if you wish.
 Code Explanation
 
 The code is organized into a Java class named HangmanGame. It uses a simple text-based interface to interact with the player.
-
 It initializes the game by selecting a random word from a predefined list, initializes the player's progress, and sets the number of incorrect guesses allowed.
-
 The main game logic is contained within a while loop, which runs until the player wins or loses.
-
 The Scanner class is used to accept user input.
-
 The code validates user input to ensure it is a single letter and responds accordingly.
-
 The game provides feedback to the player about their progress and the number of incorrect guesses remaining.
 
 Enhancements
